@@ -199,5 +199,5 @@ Step by step on setting up an m5stack sonic sensor with the m5stack 4x relay and
 
 <img width="1915" height="908" alt="ESPHome_step85" src="https://github.com/user-attachments/assets/8992e6e0-8363-48a1-ae95-b74e1fd7ac52" />
 
-
+TBC
 
